@@ -1,0 +1,22 @@
+.sectionStyle{
+    background: url(../image/login.webp) no-repeat ;
+    height: 100% ;
+    width: 100% ;
+    overflow: hidden;
+    background-size:cover;
+    
+}
+.child{
+    margin: 10% 0 0 34%;
+    width: 400px;  
+    
+}
+
+.child h1{
+    margin-left: 35%;
+    margin-bottom: 15%;
+    font-family: STKaiti;
+}  
+.btn{
+    margin-left: 30px;
+}
